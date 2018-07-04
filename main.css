@@ -1,0 +1,19 @@
+.blue-heading {
+	color: blue;
+	font-size: 20px;
+
+}
+body {
+
+	font-family: 'Roboto', sans-serif;
+}
+.cat {
+	margin-left: 200px;
+	width: 200px;
+}
+
+.circle {
+stroke-width: 3px;
+stroke: #7fcdbb;
+fill: #2c7fb8;
+}
